@@ -1,0 +1,22 @@
+{
+  "departures": [
+    { "flight": "BA2157", "airline": "British Airways", "destination": "London Gatwick", "scheduled": "06:45", "status": "On Time", "gate": "A3", "terminal": "Main" },
+    { "flight": "AA1823", "airline": "American Airlines", "destination": "Miami", "scheduled": "08:20", "status": "Boarding", "gate": "A1", "terminal": "Main" },
+    { "flight": "BW401", "airline": "Caribbean Airlines", "destination": "Port of Spain", "scheduled": "09:15", "status": "On Time", "gate": "A4", "terminal": "Main" },
+    { "flight": "VS045", "airline": "Virgin Atlantic", "destination": "London Heathrow", "scheduled": "10:30", "status": "Delayed 25 min", "gate": "A2", "terminal": "Main" },
+    { "flight": "AC892", "airline": "Air Canada", "destination": "Toronto Pearson", "scheduled": "11:45", "status": "On Time", "gate": "A5", "terminal": "Main" },
+    { "flight": "AA2034", "airline": "American Airlines", "destination": "New York JFK", "scheduled": "13:10", "status": "On Time", "gate": "A1", "terminal": "Main" },
+    { "flight": "BW412", "airline": "Caribbean Airlines", "destination": "Bridgetown", "scheduled": "14:25", "status": "On Time", "gate": "A3", "terminal": "Main" },
+    { "flight": "BA2158", "airline": "British Airways", "destination": "London Gatwick", "scheduled": "16:50", "status": "On Time", "gate": "A2", "terminal": "Main" }
+  ],
+  "arrivals": [
+    { "flight": "BA2156", "airline": "British Airways", "origin": "London Gatwick", "scheduled": "06:10", "status": "Landed", "gate": "A3", "terminal": "Main" },
+    { "flight": "AA1822", "airline": "American Airlines", "origin": "Miami", "scheduled": "07:45", "status": "On Time", "gate": "A1", "terminal": "Main" },
+    { "flight": "BW400", "airline": "Caribbean Airlines", "origin": "Port of Spain", "scheduled": "08:50", "status": "On Time", "gate": "A4", "terminal": "Main" },
+    { "flight": "VS044", "airline": "Virgin Atlantic", "origin": "London Heathrow", "scheduled": "09:55", "status": "Delayed 25 min", "gate": "A2", "terminal": "Main" },
+    { "flight": "AC891", "airline": "Air Canada", "origin": "Toronto Pearson", "scheduled": "11:10", "status": "On Time", "gate": "A5", "terminal": "Main" },
+    { "flight": "AA2033", "airline": "American Airlines", "origin": "New York JFK", "scheduled": "12:35", "status": "On Time", "gate": "A1", "terminal": "Main" },
+    { "flight": "BW411", "airline": "Caribbean Airlines", "origin": "Bridgetown", "scheduled": "13:50", "status": "On Time", "gate": "A3", "terminal": "Main" },
+    { "flight": "BA2157", "airline": "British Airways", "origin": "London Gatwick", "scheduled": "15:20", "status": "On Time", "gate": "A2", "terminal": "Main" }
+  ]
+}

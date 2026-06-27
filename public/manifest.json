@@ -1,0 +1,17 @@
+{
+  "name": "Zephyr International Airport",
+  "short_name": "AER",
+  "description": "Passenger experience platform for Zephyr International Airport",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0A1628",
+  "background_color": "#F5F0E8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

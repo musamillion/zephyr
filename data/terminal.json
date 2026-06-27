@@ -1,0 +1,21 @@
+{
+  "zones": [
+    { "id": "checkin", "name": "Check-In Hall", "level": "Ground", "description": "All airline check-in desks. Open 3 hours before departure." },
+    { "id": "security", "name": "Security & Departures", "level": "Ground", "description": "Passport control and security screening. Allow 30 minutes." },
+    { "id": "gates-a", "name": "Gates A1-A8", "level": "Airside", "description": "All departing flights. Lounge access available at Gate A2." },
+    { "id": "lounge", "name": "Zephyr Lounge", "level": "Airside", "description": "Premium lounge with complimentary food, drinks, and Wi-Fi. Access with eligible boarding pass or day pass." },
+    { "id": "retail", "name": "Retail & Duty Free", "level": "Airside", "description": "Duty free, island crafts, clothing, and travel essentials." },
+    { "id": "dining", "name": "Dining & Bars", "level": "Airside", "description": "Three dining options including The Trade Winds Bar & Kitchen." },
+    { "id": "arrivals", "name": "Arrivals Hall", "level": "Ground", "description": "Baggage reclaim, customs, currency exchange, and ground transport." },
+    { "id": "transport", "name": "Ground Transport", "level": "Landside", "description": "Taxis, car hire, and hotel shuttles. All operators are licensed by AER." }
+  ],
+  "facilities": [
+    { "name": "Currency Exchange", "zone": "arrivals", "hours": "06:00-22:00" },
+    { "name": "ATM", "zone": "arrivals", "hours": "24 hours" },
+    { "name": "Tourist Information", "zone": "arrivals", "hours": "07:00-20:00" },
+    { "name": "Left Luggage", "zone": "checkin", "hours": "05:00-23:00" },
+    { "name": "Free Wi-Fi", "zone": "all", "hours": "24 hours" },
+    { "name": "Prayer Room", "zone": "gates-a", "hours": "24 hours" },
+    { "name": "Baby Care Room", "zone": "gates-a", "hours": "24 hours" }
+  ]
+}
